@@ -8,7 +8,7 @@ print("""
       ██║   ██║██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝      ██║     ██║   ██║██║     ██╔═██╗ 
       ╚██████╔╝██║  ██║██║  ██║ ╚████╔╝ ███████╗    ███████╗╚██████╔╝╚██████╗██║  ██╗
        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝    ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝                                                                         
-                                                                            -DYST0PIK
+                                                                      -X-Ray Binary
     
      -- Grave Lock is a tool intended for decryption of hashes using dictionaries
         for educational purposes.
