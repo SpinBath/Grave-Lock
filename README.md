@@ -1,4 +1,4 @@
-<img src="https://imgur.com/07gzlL6.png">
+![LogoImage](https://github.com/SpinBath/assets/blob/main/Grave-Lock-Logo.png)
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
